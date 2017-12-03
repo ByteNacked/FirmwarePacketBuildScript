@@ -1,0 +1,116 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/buildScript/main.py" timestamp="1512340699888">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="82" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="20" column="96" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="142" column="4" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/buildScript/main.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>l</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwjXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBjYWxsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwjXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwjXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxXYXRlclByb29mRGVzY3JpcHRvclw+</entry>
+        <entry encoding="base64">XDwjXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
